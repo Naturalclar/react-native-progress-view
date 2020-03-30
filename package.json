@@ -52,7 +52,7 @@
     "flow-bin": "0.105.2",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "0.59.0",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.2",
     "react": "16.8.3",
     "react-native": "^0.61.5",
     "react-test-renderer": "16.8.3",
