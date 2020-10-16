@@ -50,7 +50,7 @@
     "flow-bin": "0.105.2",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "0.53.1",
-    "react": "16.8.3",
+    "react": "16.14.0",
     "react-native": "^0.61.5",
     "react-test-renderer": "16.8.3",
     "typescript": "^3.8.3"
